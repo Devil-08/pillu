@@ -1525,7 +1525,7 @@ return list[Math.floor(list.length * Math.random())]
     }
     
       if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('love you')) {
-      reply (`baby *${pushname}* 😇. i love you too 😘❤️.`);
+      reply (`baby *${pushname}* 😇. i love you too baby 😘❤️.`);
     }
     
       if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('khana huva')) {
@@ -1540,7 +1540,7 @@ return list[Math.floor(list.length * Math.random())]
       reply (`baby *${pushname}* 😇. has mat pagale pyar ho jayega.`);
     }
     
-      if (smallinput.includes('aashii')|| smallinput.includes('aashu') || smallinput.includes('aashika')) {
+      if (smallinput.includes('@919864302797')|| smallinput.includes('supariya') || smallinput.includes('supu')|| smallinput.includes('kindo')) {
       reply (`yaar*${pushname}* o mare owner ki bastie hai 🌚`);
     }
 	
